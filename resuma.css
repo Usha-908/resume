@@ -1,43 +1,6 @@
-<html>
-<head><meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>border</title>
-<title>
-        MY STUDY TIME-TABLE FOR THE WEEK
-</title>
-</head>
-<body>
-    <hr><hr>
-<h1>Usha.R</h1><h2>BCA student</h2><hr><h3>
-<ul><Li>ph_no. : 974******2</Li>
-<li>email : usha******@gmail.com</li>
-<li>Dayanand sagar university</li></ul></h3>
-<hr>
-<h3>SUMMARY</h3>
-<ul style="list-style-type: circle;"><li>i'm Usha.R , A 20 year-old-software developing student , who is passionated about<br> 
-    designing and developing web-base projects using HTML code.</li></ul>
-<h3>experience</h3>
-<ul style="list-style-type: circle;"><li>no experience</li></ul>
-<h3>education qualification</h3>
-<ul style="list-style-type: circle;"><li>BCA<br>Dayanand sagar university,city campus<br>2022-2025 batch</li><br>
-<li>12th (PCMC)<br>SVVN pre-university-college<br>2022 pass out batch</li><br>
-<li>10th(SSLC)<br>Lorven public school<br>2020 pass out batch</li></ul>
-<h3>projects</h3>
-<ul style="list-style-type: circle;"><Li>SUDOKU SOLVER<BR>using java-script<br>which is used to solve the sudoku problem easily.</Li><br>
-<li>DOCTOR APPOINTMENT<BR>using web-programming(html)<br>which is used to pre-book the doctors appointment.</li></ul>
- <hr>  
- <h3>PERSONAL-INFORMATHIN</h3><ol type="i">
-<li> <h3>my skills</h3><ul style="list-style-type: square;"><li>HTML(web-programming)</li>
-<li>C-programming</li>
-<li>Object orianted programming</li></ul></li>
-<li><h3>Language</h3>
-<ul style="list-style-type: square;"><li>English</li>
-<li>Kannada</li></ul></li>
-<li><h3>Hobbies</h3>
-<ul style="list-style-type: square;"><li>Traveling</li>
-<li>Shopping</li>
-<li>Drawing</li>
-<li>Designing</li></ul></li></ol>
-<hr><hr>
-</body>
-</html>
+h1 {
+    border: 2px solid red;
+}
+h2 {
+    border: 2px solid green;
+}
